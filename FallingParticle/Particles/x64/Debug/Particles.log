@@ -1,0 +1,82 @@
+﻿  theothermain.cpp
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(332): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(333): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(334): warning C4244: 'argumento': conversión de 'int' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(386): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(510): warning C4244: 'inicializando': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(545): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(549): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(551): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(552): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(577): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(590): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(599): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(601): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(674): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(674): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(675): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(675): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(677): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(678): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(679): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(679): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(680): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(680): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(681): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(681): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(687): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(797): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(798): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(802): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(803): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(805): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(806): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(813): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader.cpp
+  Particle.cpp
+f:\ca-fallingparticles\fallingparticle\particles\particle.cpp(155): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+f:\ca-fallingparticles\fallingparticle\particles\particle.cpp(156): warning C4554: '&': compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  imgui_impl_glfw.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Geometry.cpp
+  Constraint.cpp
+f:\ca-fallingparticles\fallingparticle\particles\constraint.cpp(36): warning C4244: 'inicializando': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+  Generando código...
+  glad.c
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetWindowSize sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetFramebufferSize sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetWindowAttrib sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetInputMode sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+theothermain.obj : error LNK2001: símbolo externo glfwSetInputMode sin resolver
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetMouseButton sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetCursorPos sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetCursorPos sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetKeyCallback sin resolver al que se hace referencia en la función "bool __cdecl ImGui_ImplGlfwGL2_Init(struct GLFWwindow *,bool)" (?ImGui_ImplGlfwGL2_Init@@YA_NPEAUGLFWwindow@@_N@Z)
+theothermain.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetCharCallback sin resolver al que se hace referencia en la función "bool __cdecl ImGui_ImplGlfwGL2_Init(struct GLFWwindow *,bool)" (?ImGui_ImplGlfwGL2_Init@@YA_NPEAUGLFWwindow@@_N@Z)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetMouseButtonCallback sin resolver al que se hace referencia en la función "bool __cdecl ImGui_ImplGlfwGL2_Init(struct GLFWwindow *,bool)" (?ImGui_ImplGlfwGL2_Init@@YA_NPEAUGLFWwindow@@_N@Z)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetScrollCallback sin resolver al que se hace referencia en la función "bool __cdecl ImGui_ImplGlfwGL2_Init(struct GLFWwindow *,bool)" (?ImGui_ImplGlfwGL2_Init@@YA_NPEAUGLFWwindow@@_N@Z)
+theothermain.obj : error LNK2001: símbolo externo glfwSetScrollCallback sin resolver
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwSetClipboardString sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_SetClipboardText(void *,char const *)" (?ImGui_ImplGlfwGL2_SetClipboardText@@YAXPEAXPEBD@Z)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetClipboardString sin resolver al que se hace referencia en la función "char const * __cdecl ImGui_ImplGlfwGL2_GetClipboardText(void *)" (?ImGui_ImplGlfwGL2_GetClipboardText@@YAPEBDPEAX@Z)
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetTime sin resolver al que se hace referencia en la función "void __cdecl ImGui_ImplGlfwGL2_NewFrame(void)" (?ImGui_ImplGlfwGL2_NewFrame@@YAXXZ)
+theothermain.obj : error LNK2001: símbolo externo glfwGetTime sin resolver
+imgui_impl_glfw.obj : error LNK2019: símbolo externo glfwGetWin32Window sin resolver al que se hace referencia en la función "bool __cdecl ImGui_ImplGlfwGL2_Init(struct GLFWwindow *,bool)" (?ImGui_ImplGlfwGL2_Init@@YA_NPEAUGLFWwindow@@_N@Z)
+Particle.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl CalCoreModel::CalCoreModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_??0CalCoreModel@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) sin resolver al que se hace referencia en la función "public: __cdecl Particle::Particle(float const &,float const &,float const &)" (??0Particle@@QEAA@AEBM00@Z)
+Particle.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl CalModel::CalModel(class CalCoreModel *)" (__imp_??0CalModel@@QEAA@PEAVCalCoreModel@@@Z) sin resolver al que se hace referencia en la función "public: __cdecl Particle::Particle(float const &,float const &,float const &)" (??0Particle@@QEAA@AEBM00@Z)
+theothermain.obj : error LNK2019: símbolo externo glfwInit sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwTerminate sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwWindowHint sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwCreateWindow sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwWindowShouldClose sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z)
+theothermain.obj : error LNK2019: símbolo externo glfwPollEvents sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwSetCursorPosCallback sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwMakeContextCurrent sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwSwapBuffers sin resolver al que se hace referencia en la función main
+theothermain.obj : error LNK2019: símbolo externo glfwGetProcAddress sin resolver al que se hace referencia en la función main
+C:\dev\visual-studio-c++\Particles\deps\lib\freeglut.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\dev\visual-studio-c++\Particles\deps\lib\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+F:\CA-FallingParticles\FallingParticle\x64\Debug\FallingParticle.exe : fatal error LNK1120: 28 externos sin resolver

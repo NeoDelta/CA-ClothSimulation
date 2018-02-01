@@ -1,0 +1,45 @@
+﻿  theothermain.cpp
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(338): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(339): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(340): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(341): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(342): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(343): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(357): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(399): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(432): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(439): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(440): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(462): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(485): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(514): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(533): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(558): warning C4244: 'inicializando': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(593): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(597): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(599): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(600): warning C4244: 'argumento': conversión de 'glm::tvec3<float,0>::length_type' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(630): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(647): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(738): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(738): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(739): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(739): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(741): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(742): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(743): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(743): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(744): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(744): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(745): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(745): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(751): warning C4018: '<': no coinciden signed/unsigned
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(861): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(862): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(866): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(867): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(869): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(870): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+f:\ca-fallingparticles\fallingparticle\particles\theothermain.cpp(877): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Particles.vcxproj -> F:\CA-FallingParticles\FallingParticle\Debug\FallingParticle.exe
+  Particles.vcxproj -> F:\CA-FallingParticles\FallingParticle\Debug\FallingParticle.pdb (Partial PDB)
